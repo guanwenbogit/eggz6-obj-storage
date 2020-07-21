@@ -1,0 +1,1 @@
+# eggz6-obj-storage
